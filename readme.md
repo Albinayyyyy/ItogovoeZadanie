@@ -27,7 +27,7 @@
 >  P.S. Для удобства проверки разных массивов в программе, я использовал `switch`, функции ввода/вывода в консоль.   
 Они не указаны в блок-схеме.
 
-> ![Block-diagram](Block_diagram.drawio.png)
+> ![Block-diagram](https://github.com/linarMinachev/Final_test_work_1/blob/e20922cd5911fcb8ff46b16abc50ea74fde7565e/Block_diagram.drawio.png?raw=true)
 
 3. Вы читаете данный фаил `README.md`
 4. Программа находится в ветке [`master`](/Final_task/Program.cs "Открыть решение")
@@ -109,8 +109,8 @@ void PrintArray(string[] array)
 
 Результат вывода в терминал:
 
-> ![image answer in terminal](task_done.png)
+> ![image answer in terminal](https://github.com/linarMinachev/Final_test_work_1/blob/e20922cd5911fcb8ff46b16abc50ea74fde7565e/task_done.png?raw=true)
 
 5. Скриншот коммитов для подтверждения.
 
->![Screenshot of commits](Screenshot_1.png)
+>![Screenshot of commits](https://github.com/linarMinachev/Final_test_work_1/blob/e20922cd5911fcb8ff46b16abc50ea74fde7565e/Screenshot_1.png?raw=true)
